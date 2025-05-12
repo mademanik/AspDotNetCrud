@@ -1,0 +1,42 @@
+﻿# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+appsettings.Development.json
+appsettings.Local.json
+
+# Dotnet tools
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# EF Migrations snapshot files (optional, keep if you want history)
+# Migrations/*Snapshot.cs
+
+# Publish directory
+publish/
+
+# Local secrets (if using secrets manager)
+secrets.json
